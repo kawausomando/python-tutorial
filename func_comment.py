@@ -6,3 +6,8 @@ def my_function():
     pass
 
 print(my_function.__doc__)
+
+# 出力
+# Do nothing, but document it.
+# 
+#     No, really, it doesn't do anything.
